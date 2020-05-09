@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hrETSAwNrkhO4atiODmBw4UFXU9rD5nqpTBIO2PXW41mRPni+y/cD24xk42UTRWBmUfjjtrbIHJWvVyAfd1Rnw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dreampopper\\safu\\3 курс 2 семестр\\функциональное прогр\\DrawingParser\\DrawingParser\\DrawingParser.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dreampopper\\.nuget\\packages\\fsharp.core\\4.7.0\\fsharp.core.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
